@@ -14,16 +14,13 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+		Created by <a href="https://www.linkedin.com/in/santiago-piñeiro-camilletti/" target="_blank" rel="noopener noreferrer">C4sp</a> © {year}
         </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
+	  <ul>
+	    <li><a href="https://github.com/C4spD">GitHub</a></li>
+	    <li><a href="https://discord.com/users/c4sp01">Discord</a></li>
+	    <li><a href="https://www.linkedin.com/in/santiago-piñeiro-camilletti/">LinkedIn</a></li>
+	  </ul>
       </footer>
     )
   }
