@@ -6,7 +6,7 @@ title: ¡Bienvenido!
 
 Bienvenido a mi foro, en este podrás acceder a diferentes tipos de contenidos referidos al **Pentesting** explicados por mi a través de mi experiencia como **Pentester Jr**.
 
-Toda la información brindada es proveniente de apuntes que he tomado a lo largo de mi aprendizaje en el area Red Team, realizando cursos y explorando en variedad de foros y comunidades. Se tocaran temas tales como:
+Toda la información brindada es proveniente de apuntes que he tomado a lo largo de mi aprendizaje en el área Red Team, realizando cursos y explorando en variedad de foros y comunidades. Se tocaran temas tales como:
 
 - Uso de herramientas de Pentesting
 - Reconocimiento
